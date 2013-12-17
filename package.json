@@ -1,0 +1,17 @@
+{
+  "name" : "AngularJS",
+  "version" : "0.1.0",
+  "author" : "Alexandre Anastassov",
+  "private" : true,
+
+  "devDependencies" : {
+    "grunt" :                   "~0.4.1",
+    "grunt-contrib-cssmin":         "*",
+    "grunt-contrib-sass":           "*",
+    "grunt-contrib-uglify":         "*",
+    "grunt-contrib-watch":          "*",
+    "grunt-cssc":                   "*",
+    "grunt-htmlhint":               "*",
+    "matchdep":                     "*"
+  } 
+}
